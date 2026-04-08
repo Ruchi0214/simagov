@@ -1,5 +1,5 @@
 # 🧨 ReguLate-RL: High-Stakes AI Governance Dynamics
-### *Powered by GovSim Intelligence*
+### *Powered by Simagov Intelligence*
 
 [![Open in Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Codessa/ReguLate-RL)
 [![OpenEnv Compliance](https://img.shields.io/badge/OpenEnv-Spec%201.0-green)](#)
